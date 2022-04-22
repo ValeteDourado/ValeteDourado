@@ -2,17 +2,14 @@
 
 #### :computer: Programming Student in Development Focused on Full-Stack (Start in 16/04/2022), in career transition, coffee and game lover :space_invader:
 
-
-
-
+&nbsp;
 
 ##### :book: I'm learning at the moment **HTML/CSS3, JavaScript, ReactJS, Banco de Dados and NodeJS**
 
-
-
-
+&nbsp;
 
 [![twitter Badge](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FValete_Dourado)](https://twitter.com/Valete_Dourado)[![Linkedin Badge](https://img.shields.io/badge/-victor_sousa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/victor-sousa-a49514123/)](https://www.linkedin.com/in/victor-sousa-a49514123/)[![Instagram Badge](https://img.shields.io/badge/-valete.dourado-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/valete.dourado/)](https://www.instagram.com/valete.dourado/)![gmail Badge](https://img.shields.io/badge/-victor.mrsunslane@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:victor.mrsunslane@gmail.com)
 
 
 
+##### Apenas aqueles que lutam são dignos de vida, os preguiçosos e fracos viverão na sua eterna melancolia e isso é a sua prisão perpétua. 
