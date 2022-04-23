@@ -4,7 +4,7 @@
 
 &nbsp;
 
-##### :book: I'm learning at the moment **HTML/CSS3, JavaScript, ReactJS, Banco de Dados and NodeJS**
+##### :book: I'm learning at the moment **HTML/CSS3, JavaScript, ReactJS, Database and NodeJS**
 
 &nbsp;
 
